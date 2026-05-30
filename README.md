@@ -1,16 +1,11 @@
 # yazilim_muhendisligi_projesi
 
-A new Flutter project.
+# Online Hotel Check-in System
 
-## Getting Started
+A Flutter-based mobile application designed to streamline the hotel check-in process. It provides a digital solutions for both guests and hotel management to handle reservations efficiently.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Features
+* **Online Check-in:** Guests can easily complete their registration before arriving at the hotel.
+* **Reservation Management:** Real-time tracking and management of active bookings.
+* **Admin Dashboard:** A dedicated interface for hotel administrators to monitor and approve check-in requests.
+* **Real-time Database:** Powered by Firestore to ensure instant data synchronization.
