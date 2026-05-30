@@ -1,4 +1,3 @@
-# yazilim_muhendisligi_projesi
 
 # Online Hotel Check-in System
 
