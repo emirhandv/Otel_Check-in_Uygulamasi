@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "621071097584",
+    "project_id": "yazilimmuhendisligi-50508",
+    "storage_bucket": "yazilimmuhendisligi-50508.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:621071097584:android:d734cba90da11a2a516c35",
+        "android_client_info": {
+          "package_name": "com.example.yazilim_muhendisligi_projesi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWWbi6wCeXt1zOGob-Xv6wyMpwiR0kivs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

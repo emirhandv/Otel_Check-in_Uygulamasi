@@ -1,0 +1,26 @@
+name: yazilim_muhendisligi_projesi
+description: "Otel Online Check-in Uygulaması"
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # Projende kullanılan ve hata veren paketler
+  firebase_core: any
+  cloud_firestore: any
+  intl: any
+  pdf: any
+  printing: any
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
